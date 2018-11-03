@@ -1,0 +1,12 @@
+repo: 'micro-interface-branding'
+canvasCourse: 'web-dev-3'
+
+inherit:
+  - naming-restrict-live
+  - git-1
+  - html
+  - favicons
+
+html:
+  - path: 'index.html'
+    outline: false
